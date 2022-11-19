@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Soni(Uveee)</h1>
 <h3 align="center">A CSE Student</h3>
-
+<div display="flex">
+<img align="center" alt="me" width="180" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="center" alt="me" width="180" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="center" alt="me" width="270" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="center" alt="me" width="180" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="center" alt="me" width="180" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvraj2172&label=Profile%20views&color=0e75b6&style=flat" alt="yuvraj2172" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvraj2172" alt="yuvraj2172" /></a> </p>
