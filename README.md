@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Soni(Uveee)</h1>
-<h3 align="center">A Programmer by Day , Gamer by night.</h3>
 <div display="flex">
 <img align="center" alt="me" width="140" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
 <img align="center" alt="me" width="140" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648657506206/DRT1LznNL.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm">
