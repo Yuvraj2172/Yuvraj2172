@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **demonsroar2172@gmail.com**
 
-- ⚡ Fun fact **I am sarcastic.**
 - ## Holopin Badges:
 [![@uveee's Holopin board](https://holopin.me/uveee)](https://holopin.io/@uveee)
 
