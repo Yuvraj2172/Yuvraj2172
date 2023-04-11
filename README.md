@@ -9,7 +9,7 @@
 
 
 
-- 📫 How to reach me **demonsroar2172@gmail.com**
+- 📫 How to reach me **demonsroar2172@gmail.com** || **https://dev.to/uveee**
 
 - ## Holopin Badges:
 [![@uveee's Holopin board](https://holopin.me/uveee)](https://holopin.io/@uveee)
