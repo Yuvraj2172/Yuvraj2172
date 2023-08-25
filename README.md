@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Soni</h1>
+<h2 align = "center"> A self taught <bold>Programmer</bold> </h2>
 <div display="flex">
 <img align="center" alt="me" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
 
