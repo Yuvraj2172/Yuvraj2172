@@ -6,7 +6,7 @@
 </div>
 
 
-
+![](https://komarev.com/ghpvc/?username=yuvraj-2172)
 - 📫 How to reach me **demonsroar2172@gmail.com** || **https://dev.to/uveee**
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
