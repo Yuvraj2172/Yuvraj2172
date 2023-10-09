@@ -8,7 +8,7 @@
 
 ![](https://komarev.com/ghpvc/?username=yuvraj-2172)
 ```
-- 📫 How to reach me demonsroar2172@gmail.com
+- 📫 How to reach me yuvrajsoni2172@gmail.com
 ```
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
