@@ -29,7 +29,7 @@
 <div style="display:flex;" >
   
 <p style="text-align: center;">
-  <h3 align="center">A passionate ENGINEER😎 from India</h3>
+  <h3 align="center">nah I'd win</h3>
 <p align="left">
 </p>
 
