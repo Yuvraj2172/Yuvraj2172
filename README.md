@@ -18,9 +18,7 @@
 ### 👨‍💻 About Me
 Data Engineer with **3+ years** of experience designing, building, and optimizing large-scale Big Data pipelines using **PySpark, Spark SQL, Apache Airflow, Apache NiFi, and Azure Databricks**. I work on telecom-scale datasets powering financial reporting and billing analytics.
 
-- ⚡ Delivered **40% faster data processing** and **30% less debugging time** through Spark tuning and observability improvements
 - 🎓 **Microsoft Certified**: Fabric Data Engineer Associate (DP-700) and Azure Data Fundamentals (DP-900)
-- 👨‍🏫 Mentor interns on PySpark, SQL, and Python
 
 ### 🔭 What I Work On
 - ⚙️ Workflow orchestration with **Apache Airflow**: DAGs, dependencies, retries, and SLA alerts
@@ -68,31 +66,9 @@ Data Engineer with **3+ years** of experience designing, building, and optimizin
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yuvraj2172&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
-</p>
-
-### 📈 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yuvraj2172&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj2172&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yuvraj2172&theme=tokyonight&hide_border=true" />
-</p>
-
-### 📊 Metrics
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yuvraj2172/Yuvraj2172/main/github-metrics.svg" alt="Metrics" />
-</p>
-
----
-
 ### 📫 Connect
 <p align="center">
-  <a href="https://linkedin.com/in/yuvraj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yuvraj-soni-5483aa206/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://yuvrajportfolio-ten.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:yuvrajsoni2172@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
